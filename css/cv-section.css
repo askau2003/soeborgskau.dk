@@ -16,7 +16,7 @@ section {
 .section-image {
   max-width: 50%;
   height: auto;
-  float: left;
+  float: right;
 }
 
 .section-image {
@@ -25,4 +25,12 @@ section {
   border-radius: 50%;
   object-fit: cover;
   margin-right: 20px;
+}
+
+ul {
+  padding-left: 40px;
+}
+
+.summary-text {
+    margin-bottom: 10px;
 }
