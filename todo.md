@@ -7,7 +7,7 @@
 * Optimer til telefon => ipad, etc.
 
 ## CV:
-* Check CV skabelon.docx på itslearning
+* 
 
 
 ## Cycling:
